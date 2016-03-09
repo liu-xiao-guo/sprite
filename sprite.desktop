@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=sprite
+Exec=qmlscene $@ Main.qml
+Icon=sprite.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
